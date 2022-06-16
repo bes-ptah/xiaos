@@ -3,7 +3,7 @@
 
 - The game is currently in beta! 
 - We only support Windows 11 for the launcher (its batch script limitations), but we'll support any code bugs or reports!
-
+- (If you're not using Windows, make sure you have python 3.8+, pip, and pyglet installed. Then grab a release from the releases section and run it!)
 #### Launcher
 - A launcher to launch xiaos
 - The launcher is using the latest update from github
