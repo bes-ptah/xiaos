@@ -1,7 +1,7 @@
 # Xiaos
 ###### Xiaos is a python-based minecraft game from 'foggleman/Minecraft.' It is stil in beta with lots of progress.
 
-- The game is currently in beta! 
+- The game is currently in beta! This game has been redesigned from the latest version from foggleman's.
 - We only support Windows 11 for the launcher (its batch script limitations), but we'll support any code bugs or reports!
 - (If you're not using Windows, make sure you have python 3.8+, pip, and pyglet installed. Then grab a release from the releases section and run it!)
 #### Launcher
