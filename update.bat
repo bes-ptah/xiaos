@@ -1,1 +1,1 @@
-set launcher=0.5
+set latest-launcher=0.5
